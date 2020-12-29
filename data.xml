@@ -50,7 +50,4 @@
 <server name="34.Papua" ca="0" continent_code="ID" country="Papua" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="35.Papua Barat" ca="0" continent_code="ID" country="Papua Barat" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <!-- pulau papua -->
-<server name="TRENGGALEK SIAGA 🇮🇩" ca="0" continent_code="ID" country="No.3: Zona Request 1" country_code="ID" ip="164.132.3.62" port="45410" region="Rakomwar Zona Khusus" url="http://mb.puma-network.net" token=""/>
-<server name="Komunitas Mahasiswa Nias Barat" ca="0" continent_code="ID" country="No.1: Zona Request 2" country_code="ID" ip="164.132.3.62" port="45549" region="Rakomwar Zona Khusus" url="http://mb.puma-network.net" token=""/>
-<server name="Kom. Pemuda/Perempuan Lingk. 12-13 Desa Fadoro" ca="0" continent_code="ID" country="No.2: Zona Request 3" country_code="ID" ip="164.132.3.62" port="45560" region="Rakomwar Zona Khusus" url="http://mb.puma-network.net" token=""/>
 </servers>
