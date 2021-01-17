@@ -8,5 +8,9 @@
 <server name="CHANNEL 005" ca="0" continent_code="ID" country="CHANNEL 005" country_code="ID" ip="164.132.3.62" port="45674" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
 <server name="CHANNEL 006" ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="164.132.3.62" port="45816" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
 <server name="CHANNEL 007" ca="0" continent_code="ID" country="CHANNEL 007" country_code="ID" ip="164.132.3.62" port="45818" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
+
 <server name="CHANNEL 008" ca="0" continent_code="ID" country="CHANNEL 008" country_code="ID" ip="164.132.3.62" port="45828" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
+
+<server name="CHANNEL 009" ca="0" continent_code="ID" country="CHANNEL 009" country_code="ID" ip="164.132.3.62" port="45873" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
+
 </servers>
