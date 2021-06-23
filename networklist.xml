@@ -1,6 +1,5 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="CHANNEL NUSANTARA" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="164.132.3.62" port="45875" region="Rakomwar Nasional" url="http://mb.puma-network.net" token=""/>
 <server name="RARASE" ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="164.132.3.62" port="45671" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="SIGER BERSATU" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="164.132.3.62" port="45672" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
 <server name="WARUNG NUSANTARA" ca="0" continent_code="ID" country="CHANNEL 007" country_code="ID" ip="164.132.3.62" port="45818" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
