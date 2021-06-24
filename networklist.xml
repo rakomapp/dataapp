@@ -1,5 +1,4 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="RAKOMWAR NUSANTARA🛠" ca="0" continent_code="ID" country="indo" country_code="ID" ip="164.132.3.62" port="51807" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="NUSANTARA" ca="0" continent_code="ID" country="indo" country_code="ID" ip="164.132.3.62" port="45671" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="RAKOMWAR NUSANTARA" ca="0" continent_code="ID" country="indo" country_code="ID" ip="164.132.3.62" port="51807" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 </servers>
